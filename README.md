@@ -4,7 +4,7 @@ This is my personal portfolio built using **React, Bootstrap, and JavaScript**, 
 
 ## 🧑‍💻 Tech Stack
 - React.js
-- Bootstrap
+- Tailwind css
 - JavaScript
 - HTML/CSS
 
@@ -15,7 +15,7 @@ This is my personal portfolio built using **React, Bootstrap, and JavaScript**, 
 - CV download option
 
 ## 🌐 Live Demo
-[View Portfolio](https://your-username.github.io/Portfolio-React-main/)
+[View Portfolio](portfolio-sable-nine-58.vercel.app)
 
 ## 📞 Contact
 Email: kalingaa69@gmail.com
